@@ -9,4 +9,4 @@ A slowly-expanding collection of resources, templates, and guidelines for produc
 ## Templates
 - PM-README
 - Product Requirements Document
-- User flow
+- [User flow](templates/user flow.md)
