@@ -2,7 +2,7 @@
 A slowly-expanding collection of resources, templates, and guidelines for product managers.
 
 ## Processes
-- Roadmapping
+- [Roadmapping](processes/nownextlater.md)
 - Decision-making
 - Prioritization
 
